@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded",(()=>function(){try{const a=window.Pjax||function(){};window.pjax=new a({selectors:["head title",".columns",".navbar-start",".navbar-end",".searchbox","#back-to-top","[data-pjax]",".pjax-reload"]})}catch(a){console.warn("PJAX error: "+a)}}()));
